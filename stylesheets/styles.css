@@ -245,3 +245,10 @@ footer {
     color:#444;
   }
 }
+
+.glyphicon-envelope:before {
+  padding-right: 5px;
+}
+.glyphicon-home:before {
+  padding-right: 5px;
+}
